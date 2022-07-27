@@ -1,2 +1,13 @@
-# yt-downloader-using-python-tkinter
-YouTube Downloader using Python Tkinter is a simple to use video downloader. The app lets you download videos only from YouTube videos. But it does a very good job of downloading the videos. One can safely and quickly download YouTube videos or extract audio from the video by pasting a link in the search box.
+# Python-YouTube-Video-and-Audio-Downloader
+It's a Python YouTube Video Downloader. Users can download Audio too from YouTube using this Application.
+
+
+Requirements
+
+☛Install Tkinter: pip install tk
+
+☛Install Pillow: pip install Pillow
+
+☛Install pytube: pip install pytube
+
+☛Install pyperclip: pip install pyperclip
